@@ -37,7 +37,7 @@
 - **Lien GitHub :** [Weather App](https://github.com/melissa-aliouche/weather-app)  
 
 ### 📍 **Cartes des pays** (Angular)  
-🗺️ Une application affichant une carte avec des informations sur ue pays recherché.  
+🗺️ Une application affichant une carte avec des informations sur un pays recherché.  
 - **Tech utilisées** : Angular  
 - **Lien GitHub :** [Cartes des pays](https://github.com/melissa-aliouche/my-app)  
 
