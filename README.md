@@ -55,7 +55,7 @@
 
 ---
 
-### 📍 [Weather App](https://github.com/melissa-aliouche/weather-app)  
+### 📍 [Weather App](https://melissa-aliouche.github.io/weather-app)  
 🌤️ Une application météo simple et responsive.  
 > JavaScript, HTML, CSS  
 
