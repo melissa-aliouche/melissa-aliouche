@@ -49,9 +49,21 @@
 
 ## 🚀 Mes Projets
 
+### 📍 [Application de recettes en ligne](https://toutlemondecuisine.rf.gd)  
+🍽️ Une plateforme de gestion de recettes (CRUD) avec authentification utilisateur.  
+> PHP, MySQL  
+
+---
+
 ### 📍 [Weather App](https://github.com/melissa-aliouche/weather-app)  
 🌤️ Une application météo simple et responsive.  
 > JavaScript, HTML, CSS  
+
+---
+
+### 📍 [Todolist App](https://github.com/melissa-aliouche/todolist-client)  
+✅ Une application de gestion de tâches avec Spring Boot pour le back-end et React pour le front-end.  
+> Spring Boot, React
 
 ---
 
@@ -61,11 +73,6 @@
 
 ---
 
-### 📍 [Application de recettes en ligne](https://toutlemondecuisine.rf.gd)  
-🍽️ Une plateforme de gestion de recettes (CRUD) avec authentification utilisateur.  
-> PHP, MySQL
-
----
 
 ⚡ **Fun fact** : J’aime transformer des idées simples en projets concrets, utiles et bien conçus. Et parfois... je code juste pour **le fun** 🎮  
 
